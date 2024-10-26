@@ -1,6 +1,6 @@
-# RealTimeEdify
+# SYNCLAB
 
-RealTimeEdify is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
+SYNCLAB is a real-time collaborative document editing web application built using the MERN stack (MongoDB, Express.js, React, Node.js), Socket.IO for real-time communication, and Quill as the text editor.
 
 ## Screenshots:
 ![image](https://github.com/Slacky300/REAL_TIME_DOCUMENT_COLLAB/assets/98531038/ccc71196-ef17-4e6b-a009-6890ccf29801)
@@ -23,13 +23,13 @@ The web app displays a list of online collaborators for each document. Users can
   <img width="521" alt="Email Verification" src="https://github.com/Slacky300/REAL_TIME_EDIFY/assets/98531038/1ecad94d-eb4b-408c-9b84-9434a9994461">
 </p>
 
-To enhance security and user authentication, RealTimeEdify implements email verification for user accounts. Users receive an email with a verification link upon registration.
+To enhance security and user authentication, SYNCLAB implements email verification for user accounts. Users receive an email with a verification link upon registration.
 
-To enhance security and user authentication, RealTimeEdify implements email verification for user accounts. Users receive an email with a verification link upon registration.
+To enhance security and user authentication, SYNCLAB implements email verification for user accounts. Users receive an email with a verification link upon registration.
 
 ### 4. Real-Time Editing
 
-Quill, a powerful and customizable WYSIWYG editor, is integrated into RealTimeEdify to provide a seamless real-time editing experience. Users can see live updates as collaborators edit the document.
+Quill, a powerful and customizable WYSIWYG editor, is integrated into SYNCLAB to provide a seamless real-time editing experience. Users can see live updates as collaborators edit the document.
 
 ## Technologies Used
 
@@ -47,13 +47,13 @@ Quill, a powerful and customizable WYSIWYG editor, is integrated into RealTimeEd
 
 ## Getting Started
 
-Follow these steps to run RealTimeEdify locally:
+Follow these steps to run SYNCLAB locally:
 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/RealTimeEdify.git
-   cd RealTimeEdify
+   git clone https://github.com/your-username/SYNCLAB.git
+   cd SYNCLAB
    ```
 2. **Install dependencies for frontend:**
 
